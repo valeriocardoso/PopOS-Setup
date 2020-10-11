@@ -22,6 +22,16 @@ sudo snap install thunderbird
 
 sudo snap install microk8s --classic
 
+sudo snap install kubectl --classic
+
 sudo snap install go --classic
 
 sudo snap install dvc --classic
+
+sudo snap install discord
+
+sudo snap install teams-for-linux
+
+sudo snap install zoom-client
+
+sudo snap install hugo
