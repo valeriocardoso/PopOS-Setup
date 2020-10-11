@@ -16,8 +16,6 @@ sudo snap install slack --classic
 
 sudo snap install csbooks
 
-sudo snap install freecad
-
 sudo snap install gh --edge
 
 sudo snap install thunderbird
