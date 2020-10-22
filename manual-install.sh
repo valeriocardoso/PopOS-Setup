@@ -11,6 +11,9 @@ pyenv global 3.8.0
 pip install --upgrade pip
 pip install pipenv
 
+# Poetry
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+
 
 # Nvm Install
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash
@@ -65,5 +68,7 @@ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 sudo add-apt-repository ppa:lutris-team/lutris
 sudo apt update
 sudo apt install lutris
+
+
 
 
